@@ -1,0 +1,12 @@
+[submodule "abstract-machine"]
+	path = abstract-machine
+	url = https://github.com/asker-qiao/abstract-machine.git
+[submodule "NEMU"]
+	path = NEMU
+	url = https://github.com/OpenXiangShan/NEMU.git
+[submodule "am-kernels"]
+	path = am-kernels
+	url = https://github.com/NJU-ProjectN/am-kernels.git
+[submodule "ChiselDemo"]
+	path = ChiselDemo
+	url = https://github.com/asker-qiao/ChiselDemo.git
