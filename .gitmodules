@@ -10,3 +10,6 @@
 [submodule "ChiselDemo"]
 	path = ChiselDemo
 	url = https://github.com/asker-qiao/ChiselDemo.git
+[submodule "chisel-demo"]
+	path = chisel-demo
+	url = https://github.com/asker-qiao/chisel-demo.git
